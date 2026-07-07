@@ -4,7 +4,7 @@
 
 <div align="center">
   <br/>
-  <img width="100%" alt="Synapsis Hero Banner" src="https://images.unsplash.com/photo-1509062522246-3755977927d7?w=1600&h=500&fit=crop&q=80" style="border-radius: 24px;" />
+  <img width="100%" alt="Synapsis Hero Banner" src="./synapsis-banner.png" style="border-radius: 24px;" />
   <br/><br/>
 
   [![Vite](https://img.shields.io/badge/Vite-6.4-646CFF?logo=vite&logoColor=white&style=for-the-badge)](https://vitejs.dev)
