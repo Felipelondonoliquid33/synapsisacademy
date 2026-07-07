@@ -87,9 +87,12 @@ const AppInner: React.FC = () => {
 };
 
 // Outer wrapper with provider
+import { Analytics } from '@vercel/analytics/react';
+
 const App: React.FC = () => (
   <LanguageProvider>
     <AppInner />
+    <Analytics />
   </LanguageProvider>
 );
 
